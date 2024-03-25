@@ -91,7 +91,7 @@ a {
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
-    text-align: var(--section-title-color);
+    color: var(--section-title-color);
 }
 
 .section-tagline {
